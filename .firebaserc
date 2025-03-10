@@ -1,5 +1,15 @@
 {
   "projects": {
     "default": "netflixgpt-d9844"
-  }
+  },
+  "targets": {
+    "netflixgpt-d9844": {
+      "hosting": {
+        "netflixproject-1906": [
+          "netflixproject-1906"
+        ]
+      }
+    }
+  },
+  "etags": {}
 }
